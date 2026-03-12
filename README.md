@@ -1,8 +1,11 @@
 # 🎵 A Wise Developer Once Said:
 ____________________________________________________________________
-"First off, fork your branch and the stack you claim,
- Production when we push, come equipped with main.
- You claim to be a Senior but I dropped your table..."
+"First off, fork your branch and the stack you claim,  
+
+ Production when we push, come equipped with main.  
+ 
+ You claim to be a Senior but I dropped your table..."  
+ 
                                            — Junior Dev 2Pac
 ____________________________________________________________________
 
